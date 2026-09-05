@@ -1,2 +1,2 @@
 # teamnodekart
-this repository is for the project we are building under 36-hour HackSynapse hackathon by HackIndia and IEEE
+This Repository is for the Project we are building under 36-hour HackSynapse Hackathon by HackIndia and IEEE
