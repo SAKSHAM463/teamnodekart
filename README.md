@@ -1,6 +1,6 @@
 # NodeKart
 
-NodeKart is Decentralized marketplace  powered by protected SHARP Payments It is secure And Encrypted Platform.
+NodeKart is a polished frontend prototype for a peer-to-peer marketplace powered by protected SHARP payments.
 
 ## Run locally
 
